@@ -1,4 +1,4 @@
-# markdown-ebm6
+# pandoc-ebm6
 
 ## Введение
 
